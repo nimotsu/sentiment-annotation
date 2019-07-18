@@ -22,4 +22,4 @@ pip install wordcloud
 
 ## Acknowledgments
 
-* [Movie Review Sentiment Analysis - ML models comparison](https://www.kaggle.com/oumaimahourrane/sentiment-analysis-ml-models-comparison)]
+* [Movie Review Sentiment Analysis - ML models comparison](https://www.kaggle.com/oumaimahourrane/sentiment-analysis-ml-models-comparison)
